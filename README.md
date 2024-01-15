@@ -1,5 +1,5 @@
 ![bannerr](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-<h1 align="center">Hi 👋, I'm Emiliano Castillo</h1>
+<h1 align="center">Hi 👋, I'm Emi</h1>
 <h3 align="center">A passionate QA Engineer / Automation Engineer</h3>
 <img align="right" alt="SoftwareTester" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
